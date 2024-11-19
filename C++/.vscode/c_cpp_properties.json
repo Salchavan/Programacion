@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "C:\\TDM-GCC-64\\bin\\cpp.exe"
+        },
+        {
+            "name": "suMadre",
+            "includePath": [
+                "c:/Users/Salvador/OneDrive/Programacion/C++/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++23",
+            "intelliSenseMode": "windows-gcc-x64",
+            "mergeConfigurations": false,
+            "compilerPath": "C:\\TDM-GCC-64\\bin\\gcc.exe",
+            "browse": {
+                "path": [
+                    "c:/Users/Salvador/OneDrive/Programacion/C++/**",
+                    "c:/Users/Salvador/OneDrive/Programacion/C++"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "compilerPathInCppPropertiesJson": ""
+        }
+    ],
+    "version": 4
+}

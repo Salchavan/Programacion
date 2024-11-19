@@ -1,0 +1,18 @@
+Proyecto Ahorcado + Turtle
+
+Integrantes:
+    Bruno Ibarra y Salvador Castellanos:
+        - Programadores del front (Turtle)
+        - Programadores del Back (Python)
+        - Cordinadores
+        - Correctores
+        - Diseñadores
+
+Empezado el 6 de Octubre del 2023
+Terminado el 18 de Octubre del 2023
+
+Institucion: Juana Manso de Noronha IPETyM Nº69 Curso: 5to "F"
+
+Comentarios:
+    Bruno Ibarra: Turtle es más fácil de lo que parece
+    Salvador Castellanos: Lo hice con strings porque me trabe con listas

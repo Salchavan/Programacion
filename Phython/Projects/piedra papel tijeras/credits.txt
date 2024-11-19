@@ -1,0 +1,8 @@
+Piedra Papel Tijera en Python
+
+Programado, Diseñado, Editado y Corregido por Salvador Castellanos
+
+Empezado el 18 de Octubre de 2032
+Terminado el 19 de Octubre de 2023
+
+Institucion: Juana Manso de Noronha IPETyM Nº69 Curso: 5to "F"
